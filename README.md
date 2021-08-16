@@ -34,6 +34,6 @@ To run tests in Microsoft Edge browser
 
 ## Contributors
 
-Nailya Doskanova
+David Miller
 
 
